@@ -1,0 +1,1587 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-03 12:15+0100\n"
+"PO-Revision-Date: 2022-03-03 17:12+0000\n"
+"Last-Translator:   <timea.varga1992@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Translated-Using: django-rosetta 0.9.7\n"
+
+#: .\svale_website\settings.py:137
+msgid "Hungarian"
+msgstr "Magyar"
+
+#: .\svale_website\settings.py:138
+msgid "English"
+msgstr "Angol"
+
+#: .\templates\about.html:5 .\templates\about.html:9
+msgid "Cég információk"
+msgstr ""
+
+#: .\templates\about.html:13
+msgid "Alapítva"
+msgstr ""
+
+#: .\templates\about.html:14
+msgid "Elhelyezkedés"
+msgstr ""
+
+#: .\templates\about.html:14
+msgid "Magyarország"
+msgstr ""
+
+#: .\templates\about.html:15
+msgid "Alkalmazottak száma"
+msgstr ""
+
+#: .\templates\about.html:16
+msgid "2019-es bevétel"
+msgstr ""
+
+#: .\templates\about.html:19
+msgid "Képviselt márkák"
+msgstr ""
+
+#: .\templates\about.html:26
+msgid "Profil"
+msgstr ""
+
+#: .\templates\about.html:27
+msgid "Rendszerintegráció"
+msgstr ""
+
+#: .\templates\about.html:28
+msgid "Szoftverfejlesztés"
+msgstr ""
+
+#: .\templates\about.html:29
+msgid "Javítás és karbantartás"
+msgstr ""
+
+#: .\templates\about.html:33
+msgid "Referenciák"
+msgstr ""
+
+#: .\templates\about.html:34
+msgid "Mérőjármű"
+msgstr ""
+
+#: .\templates\about.html:34
+msgid "Mérőrendszer"
+msgstr ""
+
+#: .\templates\about.html:35
+msgid "spektrumfeldolgozó szoftver"
+msgstr ""
+
+#: .\templates\about.html:37
+msgid "Műholdvevő szoftver"
+msgstr ""
+
+#: .\templates\about.html:44 .\templates\home.html:60
+#: .\templates\products.html:8
+msgid "Termékek"
+msgstr ""
+
+#: .\templates\about.html:45
+msgid "Spektrum megfigyelő rendszerek "
+msgstr ""
+
+#: .\templates\about.html:46
+msgid "Különleges rendeltetésű járművek - rendszerintegráció"
+msgstr ""
+
+#: .\templates\about.html:47
+msgid "Antenna pozicionáló rendszer"
+msgstr ""
+
+#: .\templates\about.html:48
+msgid "EMF mérési rendszer"
+msgstr ""
+
+#: .\templates\about.html:49
+msgid "UAS mérési rendszerek: antenna karakterisztika"
+msgstr ""
+
+#: .\templates\about.html:50
+msgid "Szoftver: RF spektrum feldolgozás, műszervezérlés, keretrendszerek"
+msgstr ""
+
+#: .\templates\about.html:56 .\templates\introduction.html:41
+#: .\templates\products.html:84
+msgid "Vissza a főoldalra"
+msgstr ""
+
+#: .\templates\base.html:73
+msgid "Elérhetőségek"
+msgstr ""
+
+#: .\templates\base.html:92
+msgid "Telephely"
+msgstr ""
+
+#: .\templates\base.html:92
+msgid "1035. Budapest, Vihar utca, 18"
+msgstr ""
+
+#: .\templates\base.html:98
+msgid "Posta"
+msgstr ""
+
+#: .\templates\base.html:98
+msgid "2094, Nagykovácsi, Virágos sétány, 86"
+msgstr ""
+
+#: .\templates\base.html:104
+msgid "Telefon"
+msgstr "Telefon"
+
+#: .\templates\gallery.html:10
+msgid "Képek"
+msgstr ""
+
+#: .\templates\gallery.html:28
+#| msgid "Képek"
+msgid "képek"
+msgstr ""
+
+#: .\templates\gallery.html:55 .\templates\specification.html:35
+msgid "Vissza"
+msgstr ""
+
+#: .\templates\home.html:12
+msgid "Főoldal"
+msgstr ""
+
+#: .\templates\home.html:51 .\templates\home.html:140
+#: .\templates\introduction.html:5 .\templates\introduction.html:9
+msgid "Cégbemutató"
+msgstr ""
+
+#: .\templates\home.html:55 .\templates\home.html:156
+msgid "Cég információ"
+msgstr ""
+
+#: .\templates\home.html:63 .\templates\products.html:14
+msgid "Katalógus letöltése"
+msgstr ""
+
+#: .\templates\home.html:73 .\templates\home.html:165
+msgid "Partnerek"
+msgstr ""
+
+#: .\templates\home.html:79
+msgid "Nyelvek"
+msgstr ""
+
+#: .\templates\home.html:143
+msgid ""
+"A SVALE Technology Kft. egy 2011-ben alapított vállalkozás, amely távközlési"
+" mérőműszerek, rendszerek kereskedelmével, valamint kapcsolódó "
+"szolgáltatások ellátásával -mint javítási, kalibrálási és mérnöki "
+"szolgáltatások, laboratóriumi üzemeltetés - áll ügyfelei rendelkezésére."
+msgstr ""
+
+#: .\templates\home.html:145
+msgid "Bővebben"
+msgstr ""
+
+#: .\templates\home.html:158
+msgid "A Svale Technology cég információi"
+msgstr ""
+
+#: .\templates\home.html:159
+msgid "Részletek"
+msgstr ""
+
+#: .\templates\introduction.html:15
+msgid ""
+"A SVALE Technology Kft. egy 2011-ben alapított vállalkozás, amely távközlési"
+" mérőműszerek, rendszerek kereskedelmével, valamint kapcsolódó "
+"szolgáltatások ellátásával - mint javítási, kalibrálási és mérnöki "
+"szolgáltatások, laboratóriumi üzemeltetés - áll ügyfelei rendelkezésére."
+msgstr ""
+
+#: .\templates\introduction.html:19
+msgid ""
+"Cégünk egy sor nemzetközi, elismert márkát képvisel Magyarországon, ezek "
+"közül legfontosabbak a CRFS spektrum monitoring megoldások, a Will-Burt "
+"antenna árboc megoldások, az ENKOM digitális műsorszórást vizsgáló "
+"mérőszoftverei."
+msgstr ""
+
+#: .\templates\introduction.html:23
+msgid ""
+"Cégünk együttműködik a Supratek Modesvale Kft.-vel, amely cég ugyancsak a "
+"távközlési méréstechnika és mérnöki szolgáltatások területén dolgozik."
+msgstr ""
+
+#: .\templates\introduction.html:27
+msgid ""
+"Tevékenységünket 15-20 mérnök támogatásával látjuk el, beleértve a "
+"fejlesztés, labortámogatás és méréstechnikai támogatás során felmerülű "
+"feladatokat."
+msgstr ""
+
+#: .\templates\introduction.html:31
+msgid ""
+"Cégünk legfontosabb megrendelőinek egyike a Nemzeti Média- és Hírközlési "
+"Hatóság."
+msgstr ""
+
+#: .\templates\introduction.html:35
+msgid ""
+"Cégünk összes fenti aktivitását annak érdekében teljesíti, hogy vevőink "
+"élethosszig tartó mérnöki szolgáltatásokhoz és magas színvonalú "
+"méréstechnikai megoldásokhoz jussanak igényeik szerint."
+msgstr ""
+
+#: .\templates\products.html:56 .\templates\products.html:62
+msgid "Galéria"
+msgstr ""
+
+#: .\templates\products.html:71 .\templates\products.html:78
+msgid "Specifikáció letöltése"
+msgstr ""
+
+#: .\templates\specification.html:5
+msgid "Specifikáció"
+msgstr ""
+
+#: .\templates\specification.html:30
+msgid "Letöltés"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\contrib\messages\apps.py:7
+msgid "Messages"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\contrib\sitemaps\apps.py:8
+msgid "Site Maps"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\contrib\staticfiles\apps.py:9
+msgid "Static Files"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\contrib\syndication\apps.py:7
+msgid "Syndication"
+msgstr ""
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: .\venv\Lib\site-packages\django\core\paginator.py:30
+msgid "…"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\paginator.py:51
+msgid "That page number is not an integer"
+msgstr "Az oldalszám nem integer."
+
+#: .\venv\Lib\site-packages\django\core\paginator.py:53
+msgid "That page number is less than 1"
+msgstr "Az oldalszám kisebb, mint 1."
+
+#: .\venv\Lib\site-packages\django\core\paginator.py:58
+msgid "That page contains no results"
+msgstr "Az oldal nem tartalmaz eredményt."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:22
+msgid "Enter a valid value."
+msgstr "Írjon be érvényes értéket."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:93
+#: .\venv\Lib\site-packages\django\forms\fields.py:675
+msgid "Enter a valid URL."
+msgstr "Írjon be érvényes URL-t."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:150
+msgid "Enter a valid integer."
+msgstr "Írjon be érvényes integer-t."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:161
+msgid "Enter a valid email address."
+msgstr "Írjon be érvényes email címet."
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: .\venv\Lib\site-packages\django\core\validators.py:262
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+"Adjon meg egy érvényes „slug”-t, amely betűkből, számokból, aláhúzásjelekből"
+" vagy kötőjelekből áll."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:269
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or"
+" hyphens."
+msgstr ""
+"Adjon meg egy érvényes „slug”-t, amely Unicode betűkből, számokból, "
+"aláhúzásjelekből vagy kötőjelekből áll."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:278
+#: .\venv\Lib\site-packages\django\core\validators.py:288
+#: .\venv\Lib\site-packages\django\core\validators.py:311
+msgid "Enter a valid IPv4 address."
+msgstr "Adjon meg egy érvényes IPv4-címet."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:296
+#: .\venv\Lib\site-packages\django\core\validators.py:312
+msgid "Enter a valid IPv6 address."
+msgstr "Adjon meg egy érvényes IPv6-címet."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:306
+#: .\venv\Lib\site-packages\django\core\validators.py:310
+msgid "Enter a valid IPv4 or IPv6 address."
+msgstr "Adjon meg egy érvényes IPv4- vagy IPv6-címet."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:340
+msgid "Enter only digits separated by commas."
+msgstr "Csak vesszővel elválasztott számjegyeket írjon be."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:346
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr ""
+"Győződjön meg arról, hogy ez az érték %(limit_value)s (ez %(show_value)s)."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:379
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr ""
+"Győződjön meg arról, hogy ez az érték kisebb vagy egyenlő, mint "
+"%(limit_value)s."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:388
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr ""
+"Győződjön meg arról, hogy ez az érték nagyobb vagy egyenlő, mint "
+"%(limit_value)s."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:398
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"Győződjön meg arról, hogy ez az érték legalább %(limit_value)d karaktert "
+"tartalmaz (van benne %(show_value)d)."
+msgstr[1] ""
+"Győződjön meg arról, hogy ez az érték legalább %(limit_value)d karakterből "
+"áll (%(show_value)d)."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:413
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"Győződjön meg arról, hogy ez az érték legfeljebb %(limit_value)d karakterből"
+" állhat (van benne %(show_value)d)."
+msgstr[1] ""
+"Győződjön meg arról, hogy ez az érték legfeljebb %(limit_value)d karakterből"
+" állhat (%(show_value)d)."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:432
+#: .\venv\Lib\site-packages\django\forms\fields.py:292
+#: .\venv\Lib\site-packages\django\forms\fields.py:327
+msgid "Enter a number."
+msgstr "Írjon be egy számot."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:434
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] ""
+"Győződjön meg arról, hogy összesen legfeljebb %(max)s számjegy lehet."
+msgstr[1] ""
+"Győződjön meg arról, hogy összesen legfeljebb %(max)s számjegy lehet."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:439
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] "Győződjön meg arról, hogy nem több, mint %(max)s tizedesjegy."
+msgstr[1] "Győződjön meg arról, hogy nem több, mint %(max)s tizedesjegy."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:444
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] ""
+"Győződjön meg arról, hogy a tizedesvessző előtt legfeljebb %(max)s számjegy "
+"lehet."
+msgstr[1] ""
+"Győződjön meg arról, hogy a tizedesvessző előtt legfeljebb %(max)s számjegy "
+"lehet."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:506
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr ""
+"A „%(extension)s” fájlkiterjesztés nem engedélyezett. Az engedélyezett "
+"kiterjesztések: %(allowed_extensions)s."
+
+#: .\venv\Lib\site-packages\django\core\validators.py:559
+msgid "Null characters are not allowed."
+msgstr "Null karakterek nem megengedettek."
+
+#: .\venv\Lib\site-packages\django\db\models\base.py:1197
+#: .\venv\Lib\site-packages\django\forms\models.py:768
+msgid "and"
+msgstr "és"
+
+#: .\venv\Lib\site-packages\django\db\models\base.py:1199
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr "A %(model_name)s ezzel a(z) %(field_labels)s már létezik."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:100
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr "A %(value)r érték nem érvényes választás."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:101
+msgid "This field cannot be null."
+msgstr "Ez a mező nem lehet null."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:102
+msgid "This field cannot be blank."
+msgstr "Ez a mező nem lehet üres."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:103
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr "A %(model_name)s ezzel a %(field_label)s már létezik."
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
+#. Eg: "Title must be unique for pub_date year"
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:107
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+"A %(field_label)s egyedinek kell lennie a %(date_field_label)s "
+"%(lookup_type)s számára."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:126
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr "Típusmező: %(field_type)s"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:958
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr "A „%(value)s” értéknek igaznak vagy hamisnak kell lennie."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:959
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr "A „%(value)s” értéknek igaznak, hamisnak vagy semminek kell lennie."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:961
+msgid "Boolean (Either True or False)"
+msgstr "Logikai érték (igaz vagy hamis)"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1002
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr "Karakterlánc (legfeljebb %(max_length)s)"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1096
+msgid "Comma-separated integers"
+msgstr "Vesszővel elválasztott egész számok"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1145
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+"A „%(value)s” érték dátumformátuma érvénytelen. ÉÉÉÉ-HH-NN formátumban kell "
+"lennie."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1147
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1290
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+"A „%(value)s” érték megfelelő formátumú (ÉÉÉÉ-HH-NN), de ez érvénytelen "
+"dátum."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1150
+msgid "Date (without time)"
+msgstr "Dátum (idő nélkül)"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1288
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
+msgstr ""
+"A „%(value)s” érték formátuma érvénytelen. ÉÉÉÉ-HH-NN "
+"ÓÓ:PP[:ss[.uuuuuu]][TZ] formátumban kell lennie."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1292
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time."
+msgstr ""
+"A „%(value)s” értékének formátuma megfelelő (ÉÉÉÉ-HH-NN "
+"ÓÓ:PP[:ss[.uuuuuu]][TZ]), de ez érvénytelen dátum/idő."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1296
+msgid "Date (with time)"
+msgstr "Dátum (idővel együtt)"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1444
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr "A „%(value)s” értéknek decimális számnak kell lennie."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1446
+msgid "Decimal number"
+msgstr "Decimális szám"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1585
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] "
+"[[HH:]MM:]ss[.uuuuuu] format."
+msgstr ""
+"A „%(value)s” érték formátuma érvénytelen. [DD] [[ÓÓ:]MM:]ss[.uuuuuu] "
+"formátumban kell lennie."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1588
+msgid "Duration"
+msgstr "Időtartam"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1638
+msgid "Email address"
+msgstr "Email cím"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1661
+msgid "File path"
+msgstr "Fájl elérési út"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1727
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr "A „%(value)s” értéknek lebegő értéknek kell lennie."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1729
+msgid "Floating point number"
+msgstr "Lebegőpontos szám"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1767
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr "A „%(value)s” értéknek egész számnak kell lennie."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1769
+msgid "Integer"
+msgstr "Egész szám"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1852
+msgid "Big (8 byte) integer"
+msgstr "Nagy (8 bájt) egész szám"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1867
+msgid "Small integer"
+msgstr "Kis egész szám"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1875
+msgid "IPv4 address"
+msgstr "IPv4-cím"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1906
+msgid "IP address"
+msgstr "IP-cím"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1986
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1987
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr "A „%(value)s” értéke None, True vagy False lehet."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1989
+msgid "Boolean (Either True, False or None)"
+msgstr "Logikai érték (igaz, hamis vagy semmi)"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2043
+msgid "Positive big integer"
+msgstr "Pozitív nagy egész szám"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2056
+msgid "Positive integer"
+msgstr "Pozitív egész szám"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2069
+msgid "Positive small integer"
+msgstr "Pozitív kis egész szám"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2083
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr "Slug(legfeljebb %(max_length)s)"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2115
+msgid "Text"
+msgstr "Szöveg"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2181
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+"A „%(value)s” érték formátuma érvénytelen. ÓÓ:PP[:ss[.uuuuuu]] formátumban "
+"kell lennie."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2183
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+"A „%(value)s” érték megfelelő formátumú (ÓÓ:PP[:ss[.uuuuuu]]), de ez "
+"érvénytelen idő."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2186
+msgid "Time"
+msgstr "Idő"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2312
+msgid "URL"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2334
+msgid "Raw binary data"
+msgstr "Nyers bináris adatok"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2399
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr "A „%(value)s” nem érvényes UUID."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2401
+msgid "Universally unique identifier"
+msgstr "Univerzálisan egyedi azonosító"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\files.py:226
+msgid "File"
+msgstr "Fájl"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\files.py:375
+msgid "Image"
+msgstr "Kép"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\json.py:18
+msgid "A JSON object"
+msgstr "JSON objektum"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\json.py:20
+msgid "Value must be valid JSON."
+msgstr "Az értéknek érvényes JSON-nak kell lennie."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:790
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r does not exist."
+msgstr "%(model)s példány %(field)s %(value)r értékkel nem létezik."
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:792
+msgid "Foreign Key (type determined by related field)"
+msgstr "Idegen kulcs (a kapcsolódó mező által meghatározott típus)"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1045
+msgid "One-to-one relationship"
+msgstr "Egy-egy kapcsolat"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1099
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr "%(from)s-%(to)s kapcsolat"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1100
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr "%(from)s-%(to)s kapcsolat"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1142
+msgid "Many-to-many relationship"
+msgstr "Sok-sok kapcsolat"
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the
+#. label
+#: .\venv\Lib\site-packages\django\forms\boundfield.py:150
+msgid ":?.!"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:54
+msgid "This field is required."
+msgstr "Ez a mező kötelező."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:247
+msgid "Enter a whole number."
+msgstr "Írjon be egy egész számot."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:402
+#: .\venv\Lib\site-packages\django\forms\fields.py:1143
+msgid "Enter a valid date."
+msgstr "Adj meg egy érvényes dátumot."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:426
+#: .\venv\Lib\site-packages\django\forms\fields.py:1144
+msgid "Enter a valid time."
+msgstr "Adjon meg egy érvényes időt."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:454
+msgid "Enter a valid date/time."
+msgstr "Adjon meg egy érvényes dátumot/időt."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:488
+msgid "Enter a valid duration."
+msgstr "Adjon meg egy érvényes időtartamot."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:489
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr "A napok számának {min_days} és {max_days} között kell lennie."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:549
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr "Nem nyújtottak be fájlt. Ellenőrizze a kódolás típusát az űrlapon."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:550
+msgid "No file was submitted."
+msgstr "Nem küldtek be fájlt."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:551
+msgid "The submitted file is empty."
+msgstr "A beküldött fájl üres."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:553
+#, python-format
+msgid ""
+"Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+"Győződjön meg arról, hogy ez a fájlnév legfeljebb %(max)d karakterből állhat"
+" (%(length)d)."
+msgstr[1] ""
+"Győződjön meg arról, hogy ez a fájlnév legfeljebb %(max)d karakterből állhat"
+" (%(length)d)."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:556
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr ""
+"Kérjük, küldjön be egy fájlt, vagy jelölje be az üres jelölőnégyzetet, ne "
+"mindkettőt."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:617
+#: .\venv\Lib\site-packages\sorl\thumbnail\fields.py:43
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+"Tölts fel egy érvényes képet. A feltöltött fájl vagy nem kép volt, vagy "
+"sérült."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:779
+#: .\venv\Lib\site-packages\django\forms\fields.py:869
+#: .\venv\Lib\site-packages\django\forms\models.py:1309
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr ""
+"Válasszon egy érvényes lehetőséget. A %(value)s nem tartozik a rendelkezésre"
+" álló lehetőségek közé."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:870
+#: .\venv\Lib\site-packages\django\forms\fields.py:985
+#: .\venv\Lib\site-packages\django\forms\models.py:1308
+msgid "Enter a list of values."
+msgstr "Adja meg az értékek listáját."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:986
+msgid "Enter a complete value."
+msgstr "Adjon meg egy teljes értéket."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:1202
+msgid "Enter a valid UUID."
+msgstr "Adjon meg egy érvényes UUID-t."
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:1232
+msgid "Enter a valid JSON."
+msgstr "Adjon meg egy érvényes JSON-t."
+
+#. Translators: This is the default suffix added to form field labels
+#: .\venv\Lib\site-packages\django\forms\forms.py:76
+msgid ":"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\forms.py:203
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr "(Rejtett mező %(name)s) %(error)s"
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:61
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+"A ManagementForm adatok hiányoznak, vagy manipulálták azokat. Hiányzó mezők:"
+" %(field_names)s. Előfordulhat, hogy hibajelentést kell benyújtania, ha a "
+"probléma továbbra is fennáll."
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:370
+#, python-format
+msgid "Please submit at most %d form."
+msgid_plural "Please submit at most %d forms."
+msgstr[0] "Kérjük, legfeljebb %d űrlapot küldjön be."
+msgstr[1] "Kérjük, legfeljebb %d űrlapot küldjön be."
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:377
+#, python-format
+msgid "Please submit at least %d form."
+msgid_plural "Please submit at least %d forms."
+msgstr[0] "Kérjük, küldjön be legalább %d űrlapot."
+msgstr[1] "Kérjük, küldjön be legalább %d űrlapot."
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:405
+#: .\venv\Lib\site-packages\django\forms\formsets.py:412
+msgid "Order"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:417
+msgid "Delete"
+msgstr "Törlés"
+
+#: .\venv\Lib\site-packages\django\forms\models.py:763
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr "Kérjük, javítsa ki a %(field)s ismétlődő adatait."
+
+#: .\venv\Lib\site-packages\django\forms\models.py:767
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr ""
+"Kérjük, javítsa ki a %(field)s ismétlődő adatait, amelyeknek egyedinek kell "
+"lenniük."
+
+#: .\venv\Lib\site-packages\django\forms\models.py:773
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+"Kérjük, javítsa ki a(z) %(field_name)s ismétlődő adatait, amelyeknek "
+"egyedinek kell lenniük a(z) %(lookup)s esetében a(z) %(date_field)s mezőben."
+
+#: .\venv\Lib\site-packages\django\forms\models.py:782
+msgid "Please correct the duplicate values below."
+msgstr "Kérjük, javítsa ki az alábbi ismétlődő értékeket."
+
+#: .\venv\Lib\site-packages\django\forms\models.py:1109
+msgid "The inline value did not match the parent instance."
+msgstr "A soron belüli érték nem egyezik a szülőpéldánnyal."
+
+#: .\venv\Lib\site-packages\django\forms\models.py:1193
+msgid ""
+"Select a valid choice. That choice is not one of the available choices."
+msgstr ""
+"Válasszon egy érvényes lehetőséget. Ez a választás nem tartozik a "
+"rendelkezésre álló lehetőségek közé."
+
+#: .\venv\Lib\site-packages\django\forms\models.py:1311
+#, python-format
+msgid "“%(pk)s” is not a valid value."
+msgstr "A „%(pk)s” nem érvényes érték."
+
+#: .\venv\Lib\site-packages\django\forms\utils.py:172
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+"A %(datetime)s nem értelmezhető a %(current_timezone)s időzónában; lehet "
+"kétértelmű, vagy nem létezik."
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:403
+msgid "Clear"
+msgstr "Törlés"
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:404
+msgid "Currently"
+msgstr "Jelenleg"
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:405
+msgid "Change"
+msgstr "változás"
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:714
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:715
+msgid "Yes"
+msgstr "Igen"
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:716
+msgid "No"
+msgstr "Nem"
+
+#. Translators: Please do not add spaces around commas.
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:805
+msgid "yes,no,maybe"
+msgstr "igen,nem,talán"
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:834
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:851
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:853
+#, python-format
+msgid "%s KB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:855
+#, python-format
+msgid "%s MB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:857
+#, python-format
+msgid "%s GB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:859
+#, python-format
+msgid "%s TB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:861
+#, python-format
+msgid "%s PB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:66
+msgid "p.m."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:67
+msgid "a.m."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:72
+msgid "PM"
+msgstr "délután/este"
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:73
+msgid "AM"
+msgstr "reggel/délelőtt"
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:146
+msgid "midnight"
+msgstr "éjfél"
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:148
+msgid "noon"
+msgstr "dél"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:6
+msgid "Monday"
+msgstr "Hétfő"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:6
+msgid "Tuesday"
+msgstr "Kedd"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:6
+msgid "Wednesday"
+msgstr "Szerda"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:6
+msgid "Thursday"
+msgstr "Csütörtök"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:6
+msgid "Friday"
+msgstr "Péntek"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:7
+msgid "Saturday"
+msgstr "Szombat"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:7
+msgid "Sunday"
+msgstr "Vasárnap"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:10
+msgid "Mon"
+msgstr "H"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:10
+msgid "Tue"
+msgstr "K"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:10
+msgid "Wed"
+msgstr "Sze"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:10
+msgid "Thu"
+msgstr "Cs"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:10
+msgid "Fri"
+msgstr "P"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:11
+msgid "Sat"
+msgstr "Szo"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:11
+msgid "Sun"
+msgstr "V"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:14
+msgid "January"
+msgstr "Január"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:14
+msgid "February"
+msgstr "Február"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:14
+msgid "March"
+msgstr "Március"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:14
+msgid "April"
+msgstr "Április"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:14
+msgid "May"
+msgstr "Május"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:14
+msgid "June"
+msgstr "Június"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:15
+msgid "July"
+msgstr "Július"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:15
+msgid "August"
+msgstr "Augusztus"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:15
+msgid "September"
+msgstr "Szeptember"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:15
+msgid "October"
+msgstr "Október"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:15
+msgid "November"
+msgstr "November"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:16
+msgid "December"
+msgstr "December"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:19
+msgid "jan"
+msgstr "jan"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:19
+msgid "feb"
+msgstr "feb"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:19
+msgid "mar"
+msgstr "márc"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:19
+msgid "apr"
+msgstr "ápr"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:19
+msgid "may"
+msgstr "máj"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:19
+msgid "jun"
+msgstr "jún"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:20
+msgid "jul"
+msgstr "júl"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:20
+msgid "aug"
+msgstr "aug"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:20
+msgid "sep"
+msgstr "szept"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:20
+msgid "oct"
+msgstr "okt"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:20
+msgid "nov"
+msgstr "nov"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:20
+msgid "dec"
+msgstr "dec"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:23
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr "Jan."
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:24
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr "Feb."
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:25
+msgctxt "abbrev. month"
+msgid "March"
+msgstr "Március"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:26
+msgctxt "abbrev. month"
+msgid "April"
+msgstr "Április"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:27
+msgctxt "abbrev. month"
+msgid "May"
+msgstr "Május"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:28
+msgctxt "abbrev. month"
+msgid "June"
+msgstr "Június"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:29
+msgctxt "abbrev. month"
+msgid "July"
+msgstr "Július"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:30
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr "Aug."
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:31
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr "Szept."
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:32
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr "Okt."
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:33
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr "Nov."
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:34
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr "Dec."
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:37
+msgctxt "alt. month"
+msgid "January"
+msgstr "Január"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:38
+msgctxt "alt. month"
+msgid "February"
+msgstr "Február"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:39
+msgctxt "alt. month"
+msgid "March"
+msgstr "Március"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:40
+msgctxt "alt. month"
+msgid "April"
+msgstr "Április"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:41
+msgctxt "alt. month"
+msgid "May"
+msgstr "Május"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:42
+msgctxt "alt. month"
+msgid "June"
+msgstr "Június"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:43
+msgctxt "alt. month"
+msgid "July"
+msgstr "Július"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:44
+msgctxt "alt. month"
+msgid "August"
+msgstr "Augusztus"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:45
+msgctxt "alt. month"
+msgid "September"
+msgstr "Szeptember"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:46
+msgctxt "alt. month"
+msgid "October"
+msgstr "Október"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:47
+msgctxt "alt. month"
+msgid "November"
+msgstr "November"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:48
+msgctxt "alt. month"
+msgid "December"
+msgstr "December"
+
+#: .\venv\Lib\site-packages\django\utils\ipv6.py:8
+msgid "This is not a valid IPv6 address."
+msgstr "Ez nem érvényes IPv6-cím."
+
+#: .\venv\Lib\site-packages\django\utils\text.py:71
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\text.py:240
+msgid "or"
+msgstr "vagy"
+
+#. Translators: This string is used as a separator between list elements
+#: .\venv\Lib\site-packages\django\utils\text.py:259
+#: .\venv\Lib\site-packages\django\utils\timesince.py:94
+msgid ", "
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:9
+#, python-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "%d év"
+msgstr[1] "%d évek"
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:10
+#, python-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d hónap"
+msgstr[1] "%d hónapok"
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:11
+#, python-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] "%d hét"
+msgstr[1] "%d hetek"
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:12
+#, python-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d nap"
+msgstr[1] "%d napok"
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:13
+#, python-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d óra"
+msgstr[1] "%d órák"
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:14
+#, python-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d perc"
+msgstr[1] "%d percek"
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:110
+msgid "Forbidden"
+msgstr "Tiltott"
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:111
+msgid "CSRF verification failed. Request aborted."
+msgstr "A CSRF-ellenőrzés nem sikerült. A kérés megszakítva."
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:115
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your Web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+"Azért látja ezt az üzenetet, mert ez a HTTPS-webhely megköveteli, hogy a "
+"webböngésző küldjön egy „Hivatkozó fejlécet”, de egyiket sem küldte el. Ez a"
+" fejléc biztonsági okokból szükséges, hogy megbizonyosodjon arról, hogy a "
+"böngészőt nem térítik el harmadik felek."
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:120
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr ""
+"Ha úgy konfigurálta böngészőjét, hogy letiltja a „Referer” fejléceket, "
+"kérjük, engedélyezze újra őket, legalább ezen a webhelyen, vagy HTTPS-"
+"kapcsolatok esetén, vagy „azonos eredetű” kérések esetén."
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:124
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or"
+" including the “Referrer-Policy: no-referrer” header, please remove them. "
+"The CSRF protection requires the “Referer” header to do strict referer "
+"checking. If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr ""
+"Ha a <meta name=\"referrer\" content=\"no-referrer\"> címkét használja, vagy"
+" tartalmazza a „Referrer-Policy: no-referrer” fejlécet, kérjük, távolítsa el"
+" őket. A CSRF védelem megköveteli, hogy a „Referer” fejléc szigorú "
+"hivatkozási ellenőrzést végezzen. Ha aggódik az adatvédelem miatt, "
+"használjon olyan alternatívákat, mint a <a rel=\"noreferrer\" …> a harmadik "
+"felek webhelyeire mutató hivatkozásokhoz."
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:132
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+"Azért látja ezt az üzenetet, mert ez a webhely CSRF cookie-t igényel az "
+"űrlapok elküldéséhez. Erre a cookie-ra biztonsági okokból van szükség annak "
+"biztosítására, hogy böngészőjét harmadik felek ne törjék el."
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:137
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr ""
+"Ha úgy állította be böngészőjét, hogy letiltja a cookie-kat, kérjük, "
+"engedélyezze újra azokat, legalább ezen a webhelyen, vagy „azonos eredetű” "
+"kérések esetén."
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:142
+msgid "More information is available with DEBUG=True."
+msgstr "További információ a DEBUG=True beállítással érhető el."
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:41
+msgid "No year specified"
+msgstr "Nincs megadva év"
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:61
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:111
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:208
+msgid "Date out of range"
+msgstr "A dátum kívül esik a tartományon"
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:90
+msgid "No month specified"
+msgstr "Nincs megadva hónap"
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:142
+msgid "No day specified"
+msgstr "Nincs megadva nap"
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:188
+msgid "No week specified"
+msgstr "Nincs megadva hét"
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:338
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:367
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr "Nem érhető el %(verbose_name_plural)s"
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:594
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
+msgstr ""
+"A jövőbeli %(verbose_name_plural)s nem érhető el, mert a "
+"%(class_name)s.allow_future értéke False."
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:628
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr ""
+"Érvénytelen dátumkarakterlánc „%(datestr)s” a „%(format)s” formátumban"
+
+#: .\venv\Lib\site-packages\django\views\generic\detail.py:54
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr "Nem található %(verbose_name)s, amely megfelelne a lekérdezésnek"
+
+#: .\venv\Lib\site-packages\django\views\generic\list.py:67
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr "Az oldal nem „utolsó”, és nem is konvertálható int."
+
+#: .\venv\Lib\site-packages\django\views\generic\list.py:72
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr "Érvénytelen oldal (%(page_number)s): %(message)s"
+
+#: .\venv\Lib\site-packages\django\views\generic\list.py:154
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr "Üres lista és a „%(class_name)s.allow_empty” értéke hamis."
+
+#: .\venv\Lib\site-packages\django\views\static.py:40
+msgid "Directory indexes are not allowed here."
+msgstr "A címtárindexek itt nem engedélyezettek."
+
+#: .\venv\Lib\site-packages\django\views\static.py:42
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr "„%(path)s” nem létezik"
+
+#: .\venv\Lib\site-packages\django\views\static.py:80
+#, python-format
+msgid "Index of %(directory)s"
+msgstr "%(directory)s index"
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:7
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:221
+msgid "The install worked successfully! Congratulations!"
+msgstr "A telepítés sikeres volt! Gratulálunk!"
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:207
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+"Tekintse meg a Django %(version) <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">kiadási megjegyzéseit</a> s"
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:222
+#, python-format
+msgid ""
+"You are seeing this page because <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> is in your settings file "
+"and you have not configured any URLs."
+msgstr ""
+"Azért látja ezt az oldalt, mert <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True </a> szerepel a beállítási "
+"fájljában, és nem konfigurált egyetlen URL-t sem."
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:230
+msgid "Django Documentation"
+msgstr "Django dokumentáció"
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:231
+msgid "Topics, references, &amp; how-to’s"
+msgstr "Témák, referenciák, &amp; hogyan kell"
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:239
+msgid "Tutorial: A Polling App"
+msgstr "Oktatóanyag: Szavazási alkalmazás"
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:240
+msgid "Get started with Django"
+msgstr "Kezdje el a Django használatát"
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:248
+msgid "Django Community"
+msgstr "Django közösség"
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:249
+msgid "Connect, get help, or contribute"
+msgstr "Csatlakozzon, kérjen segítséget vagy járuljon hozzá"
+
+#: .\venv\Lib\site-packages\menus\apps.py:7
+msgid "django CMS menus system"
+msgstr ""
+
+#: .\venv\Lib\site-packages\menus\menu_pool.py:188
+#, python-format
+msgid ""
+"Menu %s cannot be loaded. Please, make sure all its urls exist and can be "
+"resolved."
+msgstr ""
+
+#: .\venv\Lib\site-packages\menus\templates\menu\language_chooser.html:6
+msgid "Change to language:"
+msgstr ""
+
+#~ msgid "prod_name"
+#~ msgstr "prod_name"
+
+#, fuzzy
+#~ msgid "description"
+#~ msgstr "en_description"
+
+#~ msgid "file"
+#~ msgstr "file"
+
+#~ msgid "prod"
+#~ msgstr "prod"
+
+#~ msgid "pictures"
+#~ msgstr "képek"
+
+#~ msgid "hun_description"
+#~ msgstr "hun_description"

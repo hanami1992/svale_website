@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+{% load i18n %}
+
+{% block title %}
+{% trans "Cég információk" %}
+{% endblock %}
+
+{% block content %}
+<h1>{% trans "Cég információk" %}</h1>
+<div class="container" id="about_container">
+<div class="row justify-content-md-center" >
+    <div class="col-sm" id="about_col_1">
+        <b>{% trans "Alapítva" %}:</b> 2011<br>
+        <b>{% trans "Elhelyezkedés" %}:</b>{% trans "Magyarország" %}<br>
+        <b>{% trans "Alkalmazottak száma" %}:</b> 7<br>
+        <b>{% trans "2019-es bevétel" %}:</b>~1,5MEUR<br>
+    </div>
+    <div class="col col-lg-4" id="about_col_2-5">
+        <b>{% trans "Képviselt márkák" %}:</b> Alaris, CRFS, IZT, S-TMM, Will-Burt <br>
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-md-center" >
+    <div class="col-sm" id="about_col_2-5">
+        <b>{% trans "Profil" %}:</b><br>
+            &emsp;{% trans "Rendszerintegráció" %} <br>
+            &emsp;{% trans "Szoftverfejlesztés" %} <br>
+            &emsp;{% trans "Javítás és karbantartás" %} <br>
+    </div>
+
+    <div class="col-sm" id="about_col_2-5">
+        <b>{% trans "Referenciák" %}:</b> <br>
+            &emsp;NMIAH, SVALE S3, EMF, IZT, {% trans "Mérőjármű" %}, {% trans "Mérőrendszer" %} <br>
+            &emsp;RF {% trans "spektrumfeldolgozó szoftver" %} <br>
+            &emsp;STA: SVALE S3 <br>
+            &emsp;SZIE: {% trans "Műholdvevő szoftver" %} <br>
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-md-center" >
+    <div class="col-sm" id="about_col_2-5">
+        <b>{% trans "Termékek" %}:</b> <br>
+            &emsp;{% trans "Spektrum megfigyelő rendszerek " %}(SVALE S2, SVALE S3) <br>
+            &emsp;{% trans "Különleges rendeltetésű járművek - rendszerintegráció" %} <br>
+            &emsp;{% trans "Antenna pozicionáló rendszer" %} <br>
+            &emsp;{% translate "EMF mérési rendszer" %} <br>
+            &emsp;{% translate "UAS mérési rendszerek: antenna karakterisztika" %}, EMF <br>
+            &emsp;{% translate "Szoftver: RF spektrum feldolgozás, műszervezérlés, keretrendszerek" %} <br>
+    </div>
+</div>
+<br>
+</div>
+<div class="d-grid gap-2 col-6 mx-auto">
+    <a role="button" class="btn btn-primary" href="{% url 'home' %}#ceginformacio">{% trans "Vissza a főoldalra" %}</a>
+</div>
+{% endblock %}
+
+
+

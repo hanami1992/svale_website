@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% load i18n %}
+
+{% block title %}
+{% trans "Cégbemutató"%}
+{% endblock %}
+
+{% block content %}
+<h1>{% trans "Cégbemutató" %}</h1>
+<div class="container" id="introduction_paragh">
+<div class="row"> <!-- style=" margin-bottom: 5%; margin-top: 8%; color: black"-->
+ <!--style="text-align: center; margin-bottom: 3%"-->
+<div class="col">
+    <p> <!-- style="text-align: justify; max-width: 80%; min-width: 53%; margin: auto"-->
+        {% trans "A SVALE Technology Kft. egy 2011-ben alapított vállalkozás, amely távközlési mérőműszerek, rendszerek kereskedelmével, valamint kapcsolódó szolgáltatások ellátásával - mint javítási, kalibrálási és mérnöki szolgáltatások, laboratóriumi üzemeltetés - áll ügyfelei rendelkezésére." %}
+    </p>
+    <br>
+    <p> <!--style="text-align: justify; width: 80%; margin: auto"-->
+        {% trans "Cégünk egy sor nemzetközi, elismert márkát képvisel Magyarországon, ezek közül legfontosabbak a CRFS spektrum monitoring megoldások, a Will-Burt antenna árboc megoldások, az ENKOM digitális műsorszórást vizsgáló mérőszoftverei." %}
+    </p>
+    <br>
+    <p> <!--style="text-align: justify; width: 80%; margin: auto"-->
+        {% trans "Cégünk együttműködik a Supratek Modesvale Kft.-vel, amely cég ugyancsak a távközlési méréstechnika és mérnöki szolgáltatások területén dolgozik." %}
+    </p>
+    <br>
+    <p> <!-- style="text-align: justify; width: 80%; margin: auto"-->
+        {% trans "Tevékenységünket 15-20 mérnök támogatásával látjuk el, beleértve a fejlesztés, labortámogatás és méréstechnikai támogatás során felmerülű feladatokat." %}
+    </p>
+    <br>
+    <p> <!-- style="text-align: justify; width: 80%; margin: auto"-->
+        {% trans "Cégünk legfontosabb megrendelőinek egyike a Nemzeti Média- és Hírközlési Hatóság." %}
+    </p>
+    <br>
+    <p> <!--style="text-align: justify; width: 80%; margin: auto"-->
+        {% trans "Cégünk összes fenti aktivitását annak érdekében teljesíti, hogy vevőink élethosszig tartó mérnöki szolgáltatásokhoz és magas színvonalú méréstechnikai megoldásokhoz jussanak igényeik szerint." %}
+    </p>
+</div>
+</div>
+</div>
+<div class="d-grid gap-2 col-6 mx-auto">
+    <a role="button" class="btn btn-primary" href="{% url 'home' %}#cegbemutato">{% trans "Vissza a főoldalra" %}</a>
+</div>
+{% endblock %}

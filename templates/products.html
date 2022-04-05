@@ -1,0 +1,90 @@
+{% extends 'base.html' %}
+{% load i18n %}
+{% load to_and %}
+{% load static %}
+
+
+{% block title %}
+{% trans "Termékek" %}
+{% endblock %}
+
+
+{% block content %}
+    <div class="d-grid gap-2 col-6 mx-auto" id="download_catalog">
+        <button type="button" class="btn btn-primary">{% trans 'Katalógus letöltése' %}</button>
+    </div>
+    {% for i in p %}
+        <div class="container">
+            <div class="row">
+                <div>
+                    {% autoescape off %}
+                        <h2 id="{{ i.prod_name|to_and }}">{{ i.prod_name|linebreaks }}</h2> <!-- style="text-align: center; font-weight: bold; margin-top: 5%"-->
+                    {% endautoescape %}
+                </div>
+
+                <div id="products"> <!-- style="text-align: justify; margin-bottom: 5%"-->
+                    <div class="row">
+                        {% if i.picture == 0 %}
+                            <div class="col-sm" id="prod_pic"> <!-- style="margin-bottom: 5%"-->
+                                <img src="{% static 'weboldal_kepek/svale_logo_kek.png' %}" class="img-fluid" alt=""
+                                id="svale_pic">
+                                <!-- style="display: block; width: 50%; margin-left: auto; margin-right: auto; margin-top: 15%; transform:rotate(325deg)"-->
+                            </div>
+                        {% else %}
+                            <div class="col-sm"> <!--style="margin-left: 15%; margin-top: 10%"-->
+                                <img src="{{ i.pic.url }}" class="img-fluid" alt="" id="instrum_pic">
+                            </div> <!--style="width: 70%"-->
+                        {% endif %}
+
+                       <div class="col-sm" id="prod_desc">
+                           <p>{{ i.description }}</p> <!--style="width: 90%; float: right; margin-right: 5%; margin-top: 10%"-->
+                       </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        <div class="container">
+            <div class="d-grid gap-2 d-md-flex justify-content-md-center">
+                {% if i.picture == 1 %}
+                <div class="col-sm">
+                    <a type="button" class="btn btn-secondary"
+                      href="{% url 'gallery' i.pk %}">{% trans "Galéria"%}</a>
+                </div>
+                {% else %}
+
+                 <div class="col-sm">
+                    <a type="button" class="btn btn-secondary disabled"
+                      href="#">{% trans "Galéria"%}</a>
+                </div>
+                {% endif %}
+
+
+
+                {% if i.file|length == 0 %}
+                <div class="col-sm">
+                    <a type="button" class="btn btn-secondary disabled"  href="#">
+                        {% trans "Specifikáció letöltése" %}
+                    </a>
+                </div>
+                {% else %}
+
+                <div class="col-sm">
+                    <a type="button" class="btn btn-secondary"
+                    href="{{ i.file.url }}" download="{{ i.file.url }}">{% trans "Specifikáció letöltése" %}</a>
+                </div>
+                {% endif %}
+
+            <div class="col-sm">
+                <a role="button" class="btn btn-primary" href="{% url 'home' %}">
+                    {% trans "Vissza a főoldalra" %}</a>
+            </div>
+        </div>
+        <hr>
+    </div>
+    {% endfor %}
+{% endblock %}
