@@ -30,7 +30,6 @@ SECRET_KEY = get_random_secret_key()
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-#ALLOWED_HOSTS = ['91.227.139.159']
 ALLOWED_HOSTS = ['192.168.2.166']
 
 

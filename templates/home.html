@@ -73,7 +73,23 @@
           data-bs-target=".navbar-collapse.show">{% trans "Partnerek"%}</a>
         </li>
         <hr>
-        <li class="nav-item dropdown">
+
+          {% get_current_language as CURRENT_LANGUAGE %}
+          {% get_available_languages as AVAILABLE_LANGUAGES %}
+          {% get_language_info_list for AVAILABLE_LANGUAGES as languages %}
+              {% for language in languages %}
+               <li class="nav-item">
+                <a  class="nav-link active" aria-current="page" href="/{{ language.code }}/"
+                    data-bs-target=".navbar-collapse.show" {% if language.code == CURRENT_LANGUAGE %} class="active"
+                {% endif %}>
+                    {% if language.code != CURRENT_LANGUAGE%}
+                      {{ language.name_local}}
+                    {% endif %}
+                </a>
+                  </li>
+              {% endfor %}
+
+        <!--<li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
              aria-expanded="false">
             {% trans "Nyelvek" %}
@@ -83,14 +99,15 @@
               {% get_available_languages as AVAILABLE_LANGUAGES %}
               {% get_language_info_list for AVAILABLE_LANGUAGES as languages %}
               {% for language in languages %}
-                  <a class="dropdown-item" id="dropdowns"
-                    href="/{{ language.code }}/"
+                <a class="dropdown-item" id="dropdowns" href="/{{ language.code }}/"
                     {% if language.code == CURRENT_LANGUAGE %} class="active"{% endif %}>
-                    {{ language.name_local}}
-              </a>
+                        {% if language.code != CURRENT_LANGUAGE%}
+                            {{ language.name_local}}
+                        {% endif %}
+                </a>
               {% endfor %}
             </ul>
-        </li>
+        </li>-->
       </ul>
     </div>
     </div>

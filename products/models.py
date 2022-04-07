@@ -12,7 +12,7 @@ class ProductsModel(TranslatableModel):
         description = models.TextField(),
         picture = models.BooleanField(null=True),
         pic =models.ImageField(upload_to=f'image/prod_pic/{now():%Y/%m/%Y%m%d%H%M%S}', blank=True, null=True),
-        file = models.FileField(upload_to=f'file/{now():%Y/%m/%Y%m%d%H%M%S}', blank=True, null=True),
+        file = models.FileField(upload_to=f'file/{now():%Y/%m/%Y%m%d}', blank=True, null=True),
     )
 
     def __str__(self):
